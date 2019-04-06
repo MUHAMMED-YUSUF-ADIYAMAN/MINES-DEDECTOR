@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mayın dedektörü-", "mayın dedektörü-\mayın dedektörü-.csproj", "{23FF43BC-73FF-4A13-8C51-B2C985D261D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FF43BC-73FF-4A13-8C51-B2C985D261D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FF43BC-73FF-4A13-8C51-B2C985D261D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FF43BC-73FF-4A13-8C51-B2C985D261D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FF43BC-73FF-4A13-8C51-B2C985D261D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E703764C-8167-4790-8F23-0627DD9E038A}
+	EndGlobalSection
+EndGlobal
